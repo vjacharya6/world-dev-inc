@@ -1,0 +1,406 @@
+,series_code,topic,indicator_name,short_definition
+0,SH.MLR.IPTP.ZS,Health: Disease prevention,"Intermittent preventive treatment (IPT) of malaria in pregnancy (% of pregnant women)","Percentage of women aged 15 - 49 with a live birth in the recent years preceding the survey who received 3+ doses of sulfadoxine-pyrimethamine (SP/Fansidar), at least one during an antenatal care visit."
+1,SH.PRG.SYPH.ZS,Health: Risk factors,"Prevalence of syphilis (% of women attending antenatal care),Percentage of women attending antenatal care seropositive for syphilis"
+2,SH.UHC.SRVS.CV.XD,Health: Universal Health Coverage,"UHC service coverage index,UHC service coverage index"
+3,SP.POP.GROW,Health: Population: Dynamics,"Population growth (annual %)","Annual population growth rate. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship."
+4,SH.STA.IYCF.ZS,Health: Nutrition,"Infant and young child feeding practices, all 3 IYCF (% children ages 6-23 months)","Percentage of children age 6-23 months fed in accordance with all three infant and young child feeding (IYCF) practices (food diversity, feeding frequency, and consumption of breast milk or milk)"
+5,SH.STA.PNVC.ZS,Health: Reproductive health,"Postnatal care coverage (% mothers),Percentage of women with a postnatal checkup in the first two days after birth"
+6,SM.POP.NETM,Social Protection & Labor: Migration,Net migration,"Net migration is the number of immigrants minus the number of emigrants, including citizens and noncitizens, for the five-year period."
+7,SH.STA.OWAD.FE.ZS,Health: Nutrition,"Prevalence of overweight, female (% of female adults)","Prevalence of overweight female adults is the percentage of females ages 18 and over whose Body Mass Index (BMI) is more than 25 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters."
+8,SH.STA.OWAD.MA.ZS,Health: Nutrition,"Prevalence of overweight, male (% of male adults)","Prevalence of overweight male adults is the percentage of males ages 18 and over whose Body Mass Index (BMI) is more than 25 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters."
+9,SH.STA.OWAD.ZS,Health: Nutrition,Prevalence of overweight (% of adults),"Prevalence of overweight adults is the percentage of adults ages 18 and over whose Body Mass Index (BMI) is more than 25 kg/m2. Body Mass Index (BMI) is a simple index of weight-for-height, or the weight in kilograms divided by the square of the height in meters."
+10,SH.UHC.NOP1.CG,Health: Universal Health Coverage,"Increase in poverty gap at $1.90 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (USD),Increase in poverty gap at $1.90 (USD)"
+11,SH.UHC.NOP1.TO,Health: Universal Health Coverage,"Number of people pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,Impoverishment at the $1.90 Poverty Line"
+12,SH.UHC.NOP1.ZG,Health: Universal Health Coverage,"Increase in poverty gap at $1.90 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (% of poverty line),Increase in poverty gap at $1.90 (% of poverty line)"
+13,SH.UHC.NOP1.ZS,Health: Universal Health Coverage,"Proportion of population pushed below the $1.90 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),Impoverishment at the $1.90 Poverty Line (%)"
+14,SH.UHC.NOP2.CG,Health: Universal Health Coverage,"Increase in poverty gap at $3.20 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (USD),Increase in poverty gap at $3.20 (USD)"
+15,SH.UHC.NOP2.TO,Health: Universal Health Coverage,"Number of people pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure,Impoverishment at the $3.20 Poverty Line"
+16,SH.UHC.NOP2.ZG,Health: Universal Health Coverage,"Increase in poverty gap at $3.20 ($ 2011 PPP) poverty line due to out-of-pocket health care expenditure (% of poverty line),Increase in poverty gap at $3.20 (% of poverty line)"
+17,SH.UHC.NOP2.ZS,Health: Universal Health Coverage,"Proportion of population pushed below the $3.20 ($ 2011 PPP) poverty line by out-of-pocket health care expenditure (%),Impoverishment at the $3.20 Poverty Line (%)"
+18,SH.UHC.OOPC.10.TO,Health: Universal Health Coverage,"Number of people spending more than 10% of household consumption or income on out-of-pocket health care expenditure","Catastrophic Health Expenditure, 10% of total expenditure/income"
+19,SH.UHC.OOPC.10.ZS,Health: Universal Health Coverage,"Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%)","Catastrophic Health Expenditure, 10% of total expenditure/income (%)"
+20,SH.UHC.OOPC.25.TO,Health: Universal Health Coverage,"Number of people spending more than 25% of household consumption or income on out-of-pocket health care expenditure","Catastrophic Health Expenditure, 25% of total expenditure/income (thousands)"
+21,SH.UHC.OOPC.25.ZS,Health: Universal Health Coverage,"Proportion of population spending more than 25% of household consumption or income on out-of-pocket health care expenditure (%)","Catastrophic Health Expenditure, 25% of total expenditure/income (%)"
+22,SP.DYN.CBRT.IN,Health: Population: Dynamics,"Birth rate, crude (per 1,000 people)","Crude birth rate indicates the number of live births per 1,000 midyear population."
+23,SP.DYN.CDRT.IN,Health: Population: Dynamics,"Death rate, crude (per 1,000 people)","Crude death rate indicates the number of deaths per 1,000 midyear population."
+24,NY.GNP.PCAP.CD,Economic Policy & Debt: National accounts: Atlas GNI & GNI per capita,"GNI per capita, Atlas method (current US$)",
+25,SE.ENR.ORPH,Education: Participation,"Ratio of school attendance of orphans to school attendance of non-orphans ages 10-14",
+26,SH.FPL.SATM.ZS,Health: Reproductive health,"Demand for family planning satisfied by modern methods (% of married women with demand for family planning)",
+27,SH.MED.BEDS.ZS,Health: Health systems,"Hospital beds (per 1,000 people)",
+28,SH.MED.SAOP.P5,Health: Health systems,"Specialist surgical workforce (per 100,000 population)",
+29,SH.MLR.INCD.P3,Health: Risk factors,"Incidence of malaria (per 1,000 population at risk)",
+30,SH.SGR.PROC.P5,Health: Health systems,"Number of surgical procedures (per 100,000 population)",
+31,SH.STA.BRTW.ZS,Health: Nutrition,"Low-birthweight babies (% of births)",
+32,SH.STA.DIAB.ZS,Health: Risk factors,"Diabetes prevalence (% of population ages 20 to 79)",
+33,SH.STA.MALR,Health: Risk factors,"Malaria cases reported",
+34,SH.STA.TRAF.P5,Health: Mortality,"Mortality caused by road traffic injury (per 100,000 people)",
+35,SL.EMP.INSV.FE.ZS,Social Protection & Labor: Economic activity,"Share of women in wage employment in the nonagricultural sector (% of total nonagricultural employment)",
+36,SN.ITK.SALT.ZS,Health: Nutrition,"Consumption of iodized salt (% of households)",
+37,SN.ITK.VITA.ZS,Health: Nutrition,"Vitamin A supplementation coverage rate (% of children ages 6-59 months)",
+38,SP.ADO.TFRT,Health: Reproductive health,"Adolescent fertility rate (births per 1,000 women ages 15-19)",
+39,SP.DYN.CONU.ZS,Health: Reproductive health,"Contraceptive prevalence, any methods (% of women ages 15-49)",
+40,SP.DYN.LE00.IN,Health: Mortality,"Life expectancy at birth, total (years)",
+41,SP.M15.2024.FE.ZS,Gender: Agency,"Women who were first married by age 15 (% of women ages 20-24)",
+42,SP.M18.2024.FE.ZS,Health: Population: Dynamics,"Women who were first married by age 18 (% of women ages 20-24)",
+43,SP.URB.TOTL.IN.ZS,Environment: Density & urbanization,"Urban population (% of total population)",
+44,SH.DYN.AIDS,Health: Risk factors,"Adults (ages 15+) living with HIV",
+45,SH.DYN.AIDS.DH,Health: Risk factors,"AIDS estimated deaths (UNAIDS estimates)",
+46,SH.DYN.AIDS.FE.ZS,Health: Risk factors,"Women's share of population ages 15+ living with HIV (%)",
+47,SH.DYN.AIDS.ZS,Health: Risk factors,"Prevalence of HIV, total (% of population ages 15-49)",
+48,SH.HIV.0014,Health: Risk factors,"Children (0-14) living with HIV",
+49,SH.HIV.1524.FE.ZS,Health: Risk factors,"Prevalence of HIV, female (% ages 15-24)",
+50,SH.HIV.1524.MA.ZS,Health: Risk factors,"Prevalence of HIV, male (% ages 15-24)",
+51,SH.HIV.ARTC.ZS,Health: Risk factors,"Antiretroviral therapy coverage (% of people living with HIV)",
+52,SH.HIV.INCD,Health: Risk factors,"Adults (ages 15+) newly infected with HIV",
+53,SH.HIV.INCD.14,Health: Risk factors,"Children (ages 0-14) newly infected with HIV",
+54,SH.HIV.INCD.TL,Health: Risk factors,"Adults (ages 15+) and children (ages 0-14) newly infected with HIV",
+55,SH.HIV.INCD.ZS,Health: Risk factors,"Incidence of HIV (per 1,000 uninfected population ages 15-49)",
+56,SH.HIV.ORPH,Health: Risk factors,"Children orphaned by HIV/AIDS",
+57,SH.HIV.PMTC.ZS,Health: Risk factors,"Antiretroviral therapy coverage for PMTCT (% of pregnant women living with HIV)",
+58,SH.HIV.TOTL,Health: Risk factors,"Adults (ages 15+) and children (0-14 years) living with HIV",
+59,SH.FPL.SATI.ZS,Health: "Reproductive health,Demand for family planning satisfied by any methods (% of married women with demand for family planning)",
+60,SP.DYN.WFRT,Health: Reproductive health,"Wanted fertility rate (births per woman)",
+61,SP.HOU.FEMA.ZS,Health: Population: Dynamics,"Female headed households (% of households with a female head)",
+62,SP.MTR.1519.ZS,Health: Reproductive health,"Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)",
+63,SH.MMR.LEVE,Health: Reproductive health,"Maternity leave (days paid)",
+64,SH.MMR.WAGE.ZS,Health: Reproductive health,"Maternal leave benefits (% of wages paid)",
+65,SH.CON.1524.FE.ZS,Health: Disease prevention,"Condom use, population ages 15-24, female (% of females ages 15-24)",
+66,SH.CON.1524.MA.ZS,Health: Disease prevention,"Condom use, population ages 15-24, male (% of males ages 15-24)",
+67,SH.CON.AIDS.FE.ZS,Health: Disease prevention,"Condom use at last high-risk sex, adult female (% ages 15-49)",
+68,SH.CON.AIDS.MA.ZS,Health: Disease prevention,"Condom use at last high-risk sex, adult male (% ages 15-49)",
+69,SH.TBS.CURE.ZS,Health: Disease prevention,"Tuberculosis treatment success rate (% of new cases)",
+70,SH.TBS.DTEC.ZS,Health: Disease prevention,"Tuberculosis case detection rate (%, all forms)",
+71,SH.TBS.INCD,Health: Risk factors,"Incidence of tuberculosis (per 100,000 people)",
+72,SH.TBS.MORT,Health: Mortality,"Tuberculosis death rate (per 100,000 people)",
+73,SE.ADT.1524.LT.FM.ZS,Education: Outcomes,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",
+74,SE.ADT.1524.LT.MA.ZS,Education: Outcomes,"Literacy rate, youth male (% of males ages 15-24)",
+75,SE.ADT.1524.LT.ZS,Education: Outcomes,"Literacy rate, youth total (% of people ages 15-24)",
+76,SE.ADT.LITR.FE.ZS,Education: Outcomes,"Literacy rate, adult female (% of females ages 15 and above)",
+77,SE.ADT.LITR.MA.ZS,Education: Outcomes,"Literacy rate, adult male (% of males ages 15 and above)",
+78,SE.ADT.LITR.ZS,Education: Outcomes,"Literacy rate, adult total (% of people ages 15 and above)",
+79,SE.PRM.CMPT.FE.ZS,Education: Outcomes,"Primary completion rate, female (% of relevant age group)",
+80,SE.PRM.CMPT.MA.ZS,Education: Outcomes,"Primary completion rate, male (% of relevant age group)",
+81,SE.PRM.CMPT.ZS,Education: Outcomes,"Primary completion rate, total (% of relevant age group)",
+82,SE.PRM.ENRR,Education: Participation,"School enrollment, primary (% gross)",
+83,SE.PRM.ENRR.FE,Education: Participation,"School enrollment, primary, female (% gross)",
+84,SE.PRM.ENRR.MA,Education: Participation,"School enrollment, primary, male (% gross)",
+85,SE.PRM.NENR,Education: Participation,"School enrollment, primary (% net)",
+86,SE.PRM.NENR.FE,Education: Participation,"School enrollment, primary, female (% net)",
+87,SE.PRM.NENR.MA,Education: Participation,"School enrollment, primary, male (% net)",
+88,SE.SEC.ENRR,Education: Participation,"School enrollment, secondary (% gross)",
+89,SE.SEC.ENRR.FE,Education: Participation,"School enrollment, secondary, female (% gross)",
+90,SE.SEC.ENRR.MA,Education: Participation,"School enrollment, secondary, male (% gross)",
+91,SE.SEC.NENR,Education: Participation,"School enrollment, secondary (% net)",
+92,SE.SEC.NENR.FE,Education: Participation,"School enrollment, secondary, female (% net)",
+93,SE.SEC.NENR.MA,Education: Participation,"School enrollment, secondary, male (% net)",
+94,SE.TER.ENRR,Education: Participation,"School enrollment, tertiary (% gross)",
+95,SE.TER.ENRR.FE,Education: Participation,"School enrollment, tertiary, female (% gross)",
+96,SE.XPD.TOTL.GD.ZS,Education: Inputs,"Government expenditure on education, total (% of GDP)",
+97,SH.DTH.COMM.ZS,Health: Risk factors,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",
+98,SH.DTH.INJR.ZS,Health: Risk factors,"Cause of death, by injury (% of total)",
+99,SH.DTH.NCOM.ZS,Health: Risk factors,"Cause of death, by non-communicable diseases (% of total)",
+100,SN.ITK.DEFC,Health: Nutrition,"Number of people who are undernourished",
+101,SN.ITK.DEFC.ZS,Health: Nutrition,"Prevalence of undernourishment (% of population)",
+102,SH.IMM.HEPB,Health: Disease prevention,"Immunization, HepB3 (% of one-year-old children)",
+103,SH.IMM.HIB3,Health: Disease prevention,"Immunization, Hib3 (% of children ages 12-23 months)",
+104,SH.IMM.IBCG,Health: Disease prevention,"Immunization, BCG (% of one-year-old children)",
+105,SH.IMM.IDPT,Health: Disease prevention,"Immunization, DPT (% of children ages 12-23 months)",
+106,SH.IMM.MEAS,Health: Disease prevention,"Immunization, measles (% of children ages 12-23 months)",
+107,SH.IMM.POL3,Health: Disease prevention,"Immunization, Pol3 (% of one-year-old children)",
+108,SH.VAC.TTNS.ZS,Health: Reproductive health,"Newborns protected against tetanus (%)",
+109,SP.DYN.TO65.FE.ZS,Health: Mortality,"Survival to age 65, female (% of cohort)",
+110,SP.DYN.TO65.MA.ZS,Health: Mortality,"Survival to age 65, male (% of cohort)",
+111,SP.POP.BRTH.MF,Health: Population: "Structure,Sex ratio at birth (male births per female births)",
+112,SL.UEM.TOTL.FE.ZS,Social Protection & Labor: Unemployment,"Unemployment, female (% of female labor force) (modeled ILO estimate)",
+113,SL.UEM.TOTL.MA.ZS,Social Protection & Labor: Unemployment,"Unemployment, male (% of male labor force) (modeled ILO estimate)",
+114,SL.UEM.TOTL.ZS,Social Protection & Labor: Unemployment,"Unemployment, total (% of total labor force) (modeled ILO estimate)",
+115,SH.MLR.NETS.ZS,Health: Disease prevention,"Use of insecticide-treated bed nets (% of under-5 population)",
+116,SH.MLR.TRET.ZS,Health: Disease prevention,"Children with fever receiving antimalarial drugs (% of children under age 5 with fever)",
+117,SH.STA.ANV4.ZS,Health: Reproductive health,"Pregnant women receiving prenatal care of at least four visits (% of pregnant women)",
+118,SH.STA.ANVC.ZS,Health: Reproductive health,"Pregnant women receiving prenatal care (%)",
+119,SH.STA.ARIC.ZS,Health: Disease prevention,"ARI treatment (% of children under 5 taken to a health provider)",
+120,SH.STA.BFED.ZS,Health: Nutrition,"Exclusive breastfeeding (% of children under 6 months)",
+121,SH.STA.BRTC.ZS,Health: Reproductive health,"Births attended by skilled health staff (% of total)",
+122,SH.STA.MMRT.NE,Health: Reproductive health,"Maternal mortality ratio (national estimate, per 100,000 live births)",
+123,SH.STA.ORCF.ZS,Health: Disease prevention,"Diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)",
+124,SH.STA.ORTH,Health: Disease prevention,"Diarrhea treatment (% of children under 5 who received ORS packet)",
+125,SH.XPD.CHEX.GD.ZS,Health: Health systems,"Current health expenditure (% of GDP)",
+126,SH.XPD.CHEX.PC.CD,Health: Health systems,"Current health expenditure per capita (current US$)",
+127,SH.XPD.CHEX.PP.CD,Health: Health systems,"Current health expenditure per capita, PPP (current international $)",
+128,SH.XPD.EHEX.CH.ZS,Health: Health systems,"External health expenditure (% of current health expenditure)",
+129,SH.XPD.EHEX.EH.ZS,Health: Health systems,"External health expenditure channeled through government (% of external health expenditure)",
+130,SH.XPD.EHEX.PC.CD,Health: Health systems,"External health expenditure per capita (current US$)",
+131,SH.XPD.EHEX.PP.CD,Health: Health systems,"External health expenditure per capita, PPP (current international $)",
+132,SH.XPD.GHED.CH.ZS,Health: Health systems,"Domestic general government health expenditure (% of current health expenditure)",
+133,SH.XPD.GHED.GD.ZS,Health: Health systems,"Domestic general government health expenditure (% of GDP)",
+134,SH.XPD.GHED.GE.ZS,Health: Health systems,"Domestic general government health expenditure (% of general government expenditure)",
+135,SH.XPD.GHED.PC.CD,Health: Health systems,"Domestic general government health expenditure per capita (current US$)",
+136,SH.XPD.GHED.PP.CD,Health: Health systems,"Domestic general government health expenditure per capita, PPP (current international $)",
+137,SH.XPD.KHEX.GD.ZS,Health: Health systems,"Capital health expenditure (% of GDP)",
+138,SH.XPD.OOPC.CH.ZS,Health: Health systems,"Out-of-pocket expenditure (% of current health expenditure)",
+139,SH.XPD.OOPC.PC.CD,Health: Health systems,"Out-of-pocket expenditure per capita (current US$)",
+140,SH.XPD.OOPC.PP.CD,Health: Health systems,"Out-of-pocket expenditure per capita, PPP (current international $)",
+141,SH.XPD.PVTD.CH.ZS,Health: Health systems,"Domestic private health expenditure (% of current health expenditure)",
+142,SH.XPD.PVTD.PC.CD,Health: Health systems,"Domestic private health expenditure per capita (current US$)",
+143,SH.XPD.PVTD.PP.CD,Health: Health systems,"Domestic private health expenditure per capita, PPP  (current international $)",
+144,SH.MED.CMHW.P3,Health: Health systems,"Community health workers (per 1,000 people)",
+145,SH.MED.NUMW.P3,Health: Health systems,"Nurses and midwives (per 1,000 people)",
+146,SH.MED.PHYS.ZS,Health: Health systems,"Physicians (per 1,000 people)",
+147,SP.DYN.SMAM.FE,Health: Population: Dynamics,"Mean age at first marriage, female",
+148,SP.DYN.SMAM.MA,Health: Population: Dynamics,"Mean age at first marriage, male",
+149,SH.H2O.BASW.RU.ZS,Health: Disease prevention,"People using at least basic drinking water services, rural (% of rural population)",
+150,SH.H2O.BASW.UR.ZS,Health: Disease prevention,"People using at least basic drinking water services, urban (% of urban population)",
+151,SH.H2O.BASW.ZS,Health: Disease prevention,"People using at least basic drinking water services (% of population)",
+152,SH.H2O.SMDW.RU.ZS,Health: Disease prevention,"People using safely managed drinking water services, rural (% of rural population)",
+153,SH.H2O.SMDW.UR.ZS,Health: Disease prevention,"People using safely managed drinking water services, urban (% of urban population)",
+154,SH.H2O.SMDW.ZS,Health: Disease prevention,"People using safely managed drinking water services (% of population)",
+155,SH.STA.BASS.RU.ZS,Health: Disease prevention,"People using at least basic sanitation services, rural (% of rural population)",
+156,SH.STA.BASS.UR.ZS,Health: Disease prevention,"People using at least basic sanitation services, urban (% of urban population)",
+157,SH.STA.BASS.ZS,Health: Disease prevention,"People using at least basic sanitation services (% of population)",
+158,SH.STA.HYGN.RU.ZS,Health: Disease prevention,"People with basic handwashing facilities including soap and water, rural (% of rural population)",
+159,SH.STA.HYGN.UR.ZS,Health: Disease prevention,"People with basic handwashing facilities including soap and water, urban (% of urban population)",
+160,SH.STA.HYGN.ZS,Health: Disease prevention,"People with basic handwashing facilities including soap and water (% of population)",
+161,SH.STA.SMSS.RU.ZS,Health: Disease prevention,"People using safely managed sanitation services, rural (% of rural population)",
+162,SH.STA.SMSS.UR.ZS,Health: Disease prevention,"People using safely managed sanitation services, urban (% of urban population)",
+163,SH.STA.SMSS.ZS,Health: Disease prevention,"People using safely managed sanitation services (% of population)",
+164,SH.ALC.PCAP.FE.LI,Health: Risk factors,"Total alcohol consumption per capita, female (liters of pure alcohol, projected estimates, female 15+ years of age)",
+165,SH.ALC.PCAP.LI,Health: Risk factors,"Total alcohol consumption per capita (liters of pure alcohol, projected estimates, 15+ years of age)",
+166,SH.ALC.PCAP.MA.LI,Health: Risk factors,"Total alcohol consumption per capita, male (liters of pure alcohol, projected estimates, male 15+ years of age)",
+167,SH.DYN.NCOM.FE.ZS,Health: Mortality,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, female (%)",
+168,SH.DYN.NCOM.MA.ZS,Health: Mortality,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70, male (%)",
+169,SH.DYN.NCOM.ZS,Health: Mortality,"Mortality from CVD, cancer, diabetes or CRD between exact ages 30 and 70 (%)",
+170,SH.PRV.SMOK,Health: Risk factors,"Smoking prevalence, total (ages 15+)",
+171,SH.PRV.SMOK.FE,Health: Risk factors,"Smoking prevalence, females (% of adults)",
+172,SH.PRV.SMOK.MA,Health: Risk factors,"Smoking prevalence, males (% of adults)",
+173,SH.STA.AIRP.FE.P5,Health: Mortality,"Mortality rate attributed to household and ambient air pollution, age-standardized, female (per 100,000 female population)",
+174,SH.STA.AIRP.MA.P5,Health: Mortality,"Mortality rate attributed to household and ambient air pollution, age-standardized, male (per 100,000 male population)",
+175,SH.STA.AIRP.P5,Health: Mortality,"Mortality rate attributed to household and ambient air pollution, age-standardized (per 100,000 population)",
+176,SH.STA.POIS.P5,Health: Mortality,"Mortality rate attributed to unintentional poisoning (per 100,000 population)",
+177,SH.STA.POIS.P5.FE,Health: Mortality,"Mortality rate attributed to unintentional poisoning, female (per 100,000 female population)",
+178,SH.STA.POIS.P5.MA,Health: Mortality,"Mortality rate attributed to unintentional poisoning, male (per 100,000 male population)",
+179,SH.STA.SUIC.FE.P5,Health: Mortality,"Suicide mortality rate, female (per 100,000 female population)",
+180,SH.STA.SUIC.MA.P5,Health: Mortality,"Suicide mortality rate, male (per 100,000 male population)",
+181,SH.STA.SUIC.P5,Health: Mortality,"Suicide mortality rate (per 100,000 population)",
+182,SH.STA.WASH.P5,Health: Mortality,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (per 100,000 population)",
+183,SP.REG.BRTH.FE.ZS,Health: Population: Dynamics,"Completeness of birth registration, female (%)",
+184,SP.REG.BRTH.MA.ZS,Health: Population: Dynamics,"Completeness of birth registration, male (%)",
+185,SP.REG.BRTH.RU.ZS,Health: Population: Dynamics,"Completeness of birth registration, rural (%)",
+186,SP.REG.BRTH.UR.ZS,Health: Population: Dynamics,"Completeness of birth registration, urban (%)",
+187,SP.REG.BRTH.ZS,Health: Population: "Dynamics,Completeness of birth registration (%)",
+188,SH.STA.ODFC.RU.ZS,Health: Risk factors,"People practicing open defecation, rural (% of rural population)",
+189,SH.STA.ODFC.UR.ZS,Health: Risk factors,"People practicing open defecation, urban (% of urban population)",
+190,SH.STA.ODFC.ZS,Health: Risk factors,"People practicing open defecation (% of population)",
+191,SH.SGR.CRSK.ZS,Health: Risk factors,"Risk of catastrophic expenditure for surgical care (% of people at risk)",
+192,SH.SGR.IRSK.ZS,Health: Risk factors,"Risk of impoverishing expenditure for surgical care (% of people at risk)",
+193,SL.TLF.TOTL.FE.ZS,Social Protection & Labor: Labor force structure,"Labor force, female (% of total labor force)",
+194,SL.TLF.TOTL.IN,Social Protection & Labor: Labor force structure,"Labor force, total",
+195,SP.RUR.TOTL,Environment: Density & urbanization,"Rural population",
+196,SP.RUR.TOTL.ZG,Environment: Density & urbanization,"Rural population growth (annual %)",
+197,SP.RUR.TOTL.ZS,Environment: Density & urbanization,"Rural population (% of total population)",
+198,SP.URB.GROW,Environment: Density & urbanization,"Urban population growth (annual %)",
+199,SP.URB.TOTL,Environment: Density & urbanization,"Urban population",
+200,SH.HIV.1524.KW.FE.ZS,Health: Disease prevention,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, female (2 prevent ways and reject 3 misconceptions)",
+201,SH.HIV.1524.KW.MA.ZS,Health: Disease prevention,"Comprehensive correct knowledge of HIV/AIDS, ages 15-24, male (2 prevent ways and reject 3 misconceptions)",
+202,SH.HIV.KNOW.FE.ZS,Health: Disease prevention,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, female (2 prevent ways and reject 3 misconceptions)",
+203,SH.HIV.KNOW.MA.ZS,Health: Disease prevention,"Comprehensive correct knowledge of HIV/AIDS, ages 15-49, male (2 prevent ways and reject 3 misconceptions)",
+204,SP.POP.DPND,Health: Population: Dynamics,"Age dependency ratio (% of working-age population)"
+205,SP.POP.DPND.OL,Health: Population: Dynamics,"Age dependency ratio, old (% of working-age population)"
+206,SP.POP.DPND.YG,Health: Population: Dynamics,"Age dependency ratio, young (% of working-age population)"
+207,SP.POP.0004.FE.5Y,Health: Population: Structure,"Population ages 00-04, female (% of female population)"
+208,SP.POP.0004.MA.5Y,Health: Population: Structure,"Population ages 00-04, male (% of male population)"
+209,SP.POP.0014.FE.ZS,Health: Population: Structure,"Population ages 0-14, female (% of female population)"
+210,SP.POP.0014.MA.ZS,Health: Population: Structure,"Population ages 0-14, male (% of male population)"
+211,SP.POP.0014.TO.ZS,Health: Population: Structure,"Population ages 0-14 (% of total population)"
+212,SP.POP.0509.FE.5Y,Health: Population: Structure,"Population ages 05-09, female (% of female population)"
+213,SP.POP.0509.MA.5Y,Health: Population: Structure,"Population ages 05-09, male (% of male population)"
+214,SP.POP.1014.FE.5Y,Health: Population: Structure,"Population ages 10-14, female (% of female population)"
+215,SP.POP.1014.MA.5Y,Health: Population: Structure,"Population ages 10-14, male (% of male population)"
+216,SP.POP.1519.FE.5Y,Health: Population: Structure,"Population ages 15-19, female (% of female population)"
+217,SP.POP.1519.MA.5Y,Health: Population: Structure,"Population ages 15-19, male (% of male population)"
+218,SP.POP.1564.FE.ZS,Health: Population: Structure,"Population ages 15-64, female (% of female population)"
+219,SP.POP.1564.MA.ZS,Health: Population: Structure,"Population ages 15-64, male (% of male population)"
+220,SP.POP.1564.TO.ZS,Health: Population: Structure,"Population ages 15-64 (% of total population)"
+221,SP.POP.2024.FE.5Y,Health: Population: Structure,"Population ages 20-24, female (% of female population)"
+222,SP.POP.2024.MA.5Y,Health: Population: Structure,"Population ages 20-24, male (% of male population)"
+223,SP.POP.2529.FE.5Y,Health: Population: Structure,"Population ages 25-29, female (% of female population)"
+224,SP.POP.2529.MA.5Y,Health: Population: Structure,"Population ages 25-29, male (% of male population)"
+225,SP.POP.3034.FE.5Y,Health: Population: Structure,"Population ages 30-34, female (% of female population)"
+226,SP.POP.3034.MA.5Y,Health: Population: Structure,"Population ages 30-34, male (% of male population)"
+227,SP.POP.3539.FE.5Y,Health: Population: Structure,"Population ages 35-39, female (% of female population)"
+228,SP.POP.3539.MA.5Y,Health: Population: Structure,"Population ages 35-39, male (% of male population)"
+229,SP.POP.4044.FE.5Y,Health: Population: Structure,"Population ages 40-44, female (% of female population)"
+230,SP.POP.4044.MA.5Y,Health: Population: Structure,"Population ages 40-44, male (% of male population)"
+231,SP.POP.4549.FE.5Y,Health: Population: Structure,"Population ages 45-49, female (% of female population)"
+232,SP.POP.4549.MA.5Y,Health: Population: Structure,"Population ages 45-49, male (% of male population)"
+233,SP.POP.5054.FE.5Y,Health: Population: Structure,"Population ages 50-54, female (% of female population)"
+234,SP.POP.5054.MA.5Y,Health: Population: Structure,"Population ages 50-54, male (% of male population)"
+235,SP.POP.5559.FE.5Y,Health: Population: Structure,"Population ages 55-59, female (% of female population)"
+236,SP.POP.5559.MA.5Y,Health: Population: Structure,"Population ages 55-59, male (% of male population)"
+237,SP.POP.6064.FE.5Y,Health: Population: Structure,"Population ages 60-64, female (% of female population)"
+238,SP.POP.6064.MA.5Y,Health: Population: Structure,"Population ages 60-64, male (% of male population)"
+239,SP.POP.6569.FE.5Y,Health: Population: Structure,"Population ages 65-69, female (% of female population)"
+240,SP.POP.6569.MA.5Y,Health: Population: Structure,"Population ages 65-69, male (% of male population)"
+241,SP.POP.65UP.FE.ZS,Health: Population: Structure,"Population ages 65 and above, female (% of female population)"
+242,SP.POP.65UP.MA.ZS,Health: Population: Structure,"Population ages 65 and above, male (% of male population)"
+243,SP.POP.65UP.TO.ZS,Health: Population: Structure,"Population ages 65 and above (% of total population)"
+244,SP.POP.7074.FE.5Y,Health: Population: Structure,"Population ages 70-74, female (% of female population)"
+245,SP.POP.7074.MA.5Y,Health: Population: Structure,"Population ages 70-74, male (% of male population)"
+246,SP.POP.7579.FE.5Y,Health: Population: Structure,"Population ages 75-79, female (% of female population)"
+247,SP.POP.7579.MA.5Y,Health: Population: Structure,"Population ages 75-79, male (% of male population)"
+248,SP.POP.80UP.FE.5Y,Health: Population: Structure,"Population ages 80 and above, female (% of female population)"
+249,SP.POP.80UP.MA.5Y,Health: Population: Structure,"Population ages 80 and above, male (% of male population)"
+250,SP.POP.TOTL.FE.ZS,Health: Population: Structure,"Population, female (% of total population)"
+251,SP.POP.TOTL.MA.ZS,Health: Population: Structure,"Population, male (% of total population)"
+252,HD.HCI.OVRL,Public Sector: Policy & institutions,"Human capital index (HCI) (scale 0-1)"
+253,HD.HCI.OVRL.FE,Public Sector: Policy & institutions,"Human capital index (HCI), female (scale 0-1)"
+254,HD.HCI.OVRL.LB,Public Sector: Policy & institutions,"Human capital index (HCI), lower bound (scale 0-1)"
+255,HD.HCI.OVRL.LB.FE,Public Sector: Policy & institutions,"Human capital index (HCI), female, lower bound (scale 0-1)"
+256,HD.HCI.OVRL.LB.MA,Public Sector: Policy & institutions,"Human capital index (HCI), male, lower bound (scale 0-1)"
+257,HD.HCI.OVRL.MA,Public Sector: Policy & institutions,"Human capital index (HCI), male (scale 0-1)"
+258,HD.HCI.OVRL.UB,Public Sector: Policy & institutions,"Human capital index (HCI), upper bound (scale 0-1)"
+259,HD.HCI.OVRL.UB.FE,Public Sector: Policy & institutions,"Human capital index (HCI), female, upper bound (scale 0-1)"
+260,HD.HCI.OVRL.UB.MA,Public Sector: Policy & institutions,"Human capital index (HCI), male, upper bound (scale 0-1)"
+261,SH.ANM.ALLW.ZS,Health: Nutrition,"Prevalence of anemia among women of reproductive age (% of women ages 15-49)"
+262,SH.ANM.CHLD.ZS,Health: Nutrition,"Prevalence of anemia among children (% of children under 5)"
+263,SH.ANM.NPRG.ZS,Health: Nutrition,"Prevalence of anemia among non-pregnant women (% of women ages 15-49)"
+264,SH.PRG.ANEM,Health: Nutrition,"Prevalence of anemia among pregnant women (%)"
+265,SP.REG.DTHS.ZS,Health: Population: Dynamics,"Completeness of death registration with cause-of-death information (%)"
+266,SP.DYN.CONM.ZS,Health: Reproductive health,"Contraceptive prevalence, modern methods (% of women ages 15-49)"
+267,SP.UWT.TFRT,Health: Reproductive health,"Unmet need for contraception (% of married women ages 15-49)"
+268,SH.DYN.MORT,Health: Mortality,"Mortality rate, under-5 (per 1,000 live births)"
+269,SH.DYN.MORT.FE,Health: Mortality,"Mortality rate, under-5, female (per 1,000 live births)"
+270,SH.DYN.MORT.MA,Health: Mortality,"Mortality rate, under-5, male (per 1,000 live births)"
+271,SH.DYN.NMRT,Health: Mortality,"Mortality rate, neonatal (per 1,000 live births)"
+272,SH.DTH.0514,Health: Mortality,"Number of deaths ages 5-14 years"
+273,SH.DTH.IMRT,Health: Mortality,"Number of infant deaths"
+274,SH.DTH.MORT,Health: Mortality,"Number of under-five deaths"
+275,SH.DTH.NMRT,Health: Mortality,"Number of neonatal deaths"
+276,SH.DYN.0514,Health: Mortality,"Probability of dying at age 5-14 years (per 1,000 children age 5)"
+277,SP.DYN.IMRT.FE.IN,Health: Mortality,"Mortality rate, infant, female (per 1,000 live births)"
+278,SP.DYN.IMRT.IN,Health: Mortality,"Mortality rate, infant (per 1,000 live births)"
+279,SP.DYN.IMRT.MA.IN,Health: Mortality,"Mortality rate, infant, male (per 1,000 live births)"
+280,SH.MMR.DTHS,Health: "Reproductive health,Number of maternal deaths"
+281,SH.MMR.RISK,Health: "Reproductive health,Lifetime risk of maternal death (1 in: rate varies by country)"
+282,SH.MMR.RISK.ZS,Health: "Reproductive health,Lifetime risk of maternal death (%)"
+283,SH.STA.MMRT,Health: Reproductive health,"Maternal mortality ratio (modeled estimate, per 100,000 live births)"
+284,SP.POP.0004.FE,Health: Population: Structure,"Population ages 00-04, female"
+285,SP.POP.0004.MA,Health: Population: Structure,"Population ages 00-04, male"
+286,SP.POP.0014.FE.IN,Health: Population: Structure,"Population ages 0-14, female"
+287,SP.POP.0014.MA.IN,Health: Population: Structure,"Population ages 0-14, male"
+288,SP.POP.0014.TO,Health: Population: Structure,"Population ages 0-14, total"
+289,SP.POP.0509.FE,Health: Population: Structure,"Population ages 05-09, female"
+290,SP.POP.0509.MA,Health: Population: Structure,"Population ages 05-09, male"
+291,SP.POP.1014.FE,Health: Population: Structure,"Population ages 10-14, female"
+292,SP.POP.1014.MA,Health: Population: Structure,"Population ages 10-14, male"
+293,SP.POP.1519.FE,Health: Population: Structure,"Population ages 15-19, female"
+294,SP.POP.1519.MA,Health: Population: Structure,"Population ages 15-19, male"
+295,SP.POP.1564.FE.IN,Health: Population: Structure,"Population ages 15-64, female"
+296,SP.POP.1564.MA.IN,Health: Population: Structure,"Population ages 15-64, male"
+297,SP.POP.1564.TO,Health: Population: Structure,"Population ages 15-64, total"
+298,SP.POP.2024.FE,Health: Population: Structure,"Population ages 20-24, female"
+299,SP.POP.2024.MA,Health: Population: Structure,"Population ages 20-24, male"
+300,SP.POP.2529.FE,Health: Population: Structure,"Population ages 25-29, female"
+301,SP.POP.2529.MA,Health: Population: Structure,"Population ages 25-29, male"
+302,SP.POP.3034.FE,Health: Population: Structure,"Population ages 30-34, female"
+303,SP.POP.3034.MA,Health: Population: Structure,"Population ages 30-34, male"
+304,SP.POP.3539.FE,Health: Population: Structure,"Population ages 35-39, female"
+305,SP.POP.3539.MA,Health: Population: Structure,"Population ages 35-39, male"
+306,SP.POP.4044.FE,Health: Population: Structure,"Population ages 40-44, female"
+307,SP.POP.4044.MA,Health: Population: Structure,"Population ages 40-44, male"
+308,SP.POP.4549.FE,Health: Population: Structure,"Population ages 45-49, female"
+309,SP.POP.4549.MA,Health: Population: Structure,"Population ages 45-49, male"
+310,SP.POP.5054.FE,Health: Population: Structure,"Population ages 50-54, female"
+311,SP.POP.5054.MA,Health: Population: Structure,"Population ages 50-54, male"
+312,SP.POP.5559.FE,Health: Population: Structure,"Population ages 55-59, female"
+313,SP.POP.5559.MA,Health: Population: Structure,"Population ages 55-59, male"
+314,SP.POP.6064.FE,Health: Population: Structure,"Population ages 60-64, female"
+315,SP.POP.6064.MA,Health: Population: Structure,"Population ages 60-64, male"
+316,SP.POP.6569.FE,Health: Population: Structure,"Population ages 65-69, female"
+317,SP.POP.6569.MA,Health: Population: Structure,"Population ages 65-69, male"
+318,SP.POP.65UP.FE.IN,Health: Population: Structure,"Population ages 65 and above, female"
+319,SP.POP.65UP.MA.IN,Health: Population: Structure,"Population ages 65 and above, male"
+320,SP.POP.65UP.TO,Health: Population: Structure,"Population ages 65 and above, total"
+321,SP.POP.7074.FE,Health: Population: Structure,"Population ages 70-74, female"
+322,SP.POP.7074.MA,Health: Population: Structure,"Population ages 70-74, male"
+323,SP.POP.7579.FE,Health: Population: Structure,"Population ages 75-79, female"
+324,SP.POP.7579.MA,Health: Population: Structure,"Population ages 75-79, male"
+325,SP.POP.80UP.FE,Health: Population: Structure,"Population ages 80 and above, female"
+326,SP.POP.80UP.MA,Health: Population: Structure,"Population ages 80 and above, male"
+327,SP.POP.TOTL.FE.IN,Health: Population: Structure,"Population, female"
+328,SP.POP.TOTL.MA.IN,Health: Population: Structure,"Population, male"
+329,SP.DYN.LE00.FE.IN,Health: Mortality,"Life expectancy at birth, female (years)"
+330,SP.DYN.LE00.MA.IN,Health: Mortality,"Life expectancy at birth, male (years)"
+331,SP.DYN.TFRT.IN,Health: Reproductive health,"Fertility rate, total (births per woman)"
+332,SP.POP.TOTL,Health: Population: Structure,"Population, total"
+333,SI.POV.NAHC,Poverty: Poverty rates,"Poverty headcount ratio at national poverty lines (% of population)"
+334,SI.POV.RUHC,Poverty: Poverty rates,"Rural poverty headcount ratio at national poverty lines (% of rural population)"
+335,SI.POV.URHC,Poverty: Poverty rates,"Urban poverty headcount ratio at national poverty lines (% of urban population)"
+336,SH.STA.MALN.FE.ZS,Health: Nutrition,"Prevalence of underweight, weight for age, female (% of children under 5)"
+337,SH.STA.MALN.MA.ZS,Health: Nutrition,"Prevalence of underweight, weight for age, male (% of children under 5)"
+338,SH.STA.MALN.ZS,Health: Nutrition,"Prevalence of underweight, weight for age (% of children under 5)"
+339,SH.STA.OWGH.FE.ZS,Health: Nutrition,"Prevalence of overweight, weight for height, female (% of children under 5)"
+340,SH.STA.OWGH.MA.ZS,Health: Nutrition,"Prevalence of overweight, weight for height, male (% of children under 5)"
+341,SH.STA.OWGH.ZS,Health: Nutrition,"Prevalence of overweight, weight for height (% of children under 5)"
+342,SH.STA.STNT.FE.ZS,Health: Nutrition,"Prevalence of stunting, height for age, female (% of children under 5)"
+343,SH.STA.STNT.MA.ZS,Health: Nutrition,"Prevalence of stunting, height for age, male (% of children under 5)"
+344,SH.STA.STNT.ZS,Health: Nutrition,"Prevalence of stunting, height for age (% of children under 5)"
+345,SH.STA.WAST.FE.ZS,Health: Nutrition,"Prevalence of wasting, weight for height, female (% of children under 5)"
+346,SH.STA.WAST.MA.ZS,Health: Nutrition,"Prevalence of wasting, weight for height, male (% of children under 5)"
+347,SH.STA.WAST.ZS,Health: Nutrition,"Prevalence of wasting, weight for height (% of children under 5)"
+348,SH.SVR.WAST.FE.ZS,Health: Nutrition,"Prevalence of severe wasting, weight for height, female (% of children under 5)"
+349,SH.SVR.WAST.MA.ZS,Health: Nutrition,"Prevalence of severe wasting, weight for height, male (% of children under 5)"
+350,SH.SVR.WAST.ZS,Health: Nutrition,"Prevalence of severe wasting, weight for height (% of children under 5)"
+351,SP.DYN.AMRT.FE,Health: Mortality,"Mortality rate, adult, female (per 1,000 female adults)"
+352,SP.DYN.AMRT.MA,Health: Mortality,"Mortality rate, adult, male (per 1,000 male adults)"
+353,SP.POP.AG00.MA.IN,Health: Population: Structure,"Age population, age 00, male, interpolated","Age population, male refers to male population at the specified age level."
+354,SP.POP.AG01.MA.IN,Health: Population: Structure,"Age population, age 01, male, interpolated","Age population, male refers to male population at the specified age level."
+355,SP.POP.AG02.MA.IN,Health: Population: Structure,"Age population, age 02, male, interpolated","Age population, male refers to male population at the specified age level."
+356,SP.POP.AG03.MA.IN,Health: Population: Structure,"Age population, age 03, male, interpolated","Age population, male refers to male population at the specified age level."
+357,SP.POP.AG04.MA.IN,Health: Population: Structure,"Age population, age 04, male, interpolated","Age population, male refers to male population at the specified age level."
+358,SP.POP.AG05.MA.IN,Health: Population: Structure,"Age population, age 05, male, interpolated","Age population, male refers to male population at the specified age level."
+359,SP.POP.AG06.MA.IN,Health: Population: Structure,"Age population, age 06, male, interpolated","Age population, male refers to male population at the specified age level."
+360,SP.POP.AG07.MA.IN,Health: Population: Structure,"Age population, age 07, male, interpolated","Age population, male refers to male population at the specified age level."
+361,SP.POP.AG08.MA.IN,Health: Population: Structure,"Age population, age 08, male, interpolated","Age population, male refers to male population at the specified age level."
+362,SP.POP.AG09.MA.IN,Health: Population: Structure,"Age population, age 09, male, interpolated","Age population, male refers to male population at the specified age level."
+363,SP.POP.AG10.MA.IN,Health: Population: Structure,"Age population, age 10, male, interpolated","Age population, male refers to male population at the specified age level."
+364,SP.POP.AG11.MA.IN,Health: Population: Structure,"Age population, age 11, male, interpolated","Age population, male refers to male population at the specified age level."
+365,SP.POP.AG12.MA.IN,Health: Population: Structure,"Age population, age 12, male, interpolated","Age population, male refers to male population at the specified age level."
+366,SP.POP.AG13.MA.IN,Health: Population: Structure,"Age population, age 13, male, interpolated","Age population, male refers to male population at the specified age level."
+367,SP.POP.AG14.MA.IN,Health: Population: Structure,"Age population, age 14, male, interpolated","Age population, male refers to male population at the specified age level."
+368,SP.POP.AG15.MA.IN,Health: Population: Structure,"Age population, age 15, male, interpolated","Age population, male refers to male population at the specified age level."
+369,SP.POP.AG16.MA.IN,Health: Population: Structure,"Age population, age 16, male, interpolated","Age population, male refers to male population at the specified age level."
+370,SP.POP.AG17.MA.IN,Health: Population: Structure,"Age population, age 17, male, interpolated","Age population, male refers to male population at the specified age level."
+371,SP.POP.AG18.MA.IN,Health: Population: Structure,"Age population, age 18, male, interpolated","Age population, male refers to male population at the specified age level."
+372,SP.POP.AG19.MA.IN,Health: Population: Structure,"Age population, age 19, male, interpolated","Age population, male refers to male population at the specified age level."
+373,SP.POP.AG20.MA.IN,Health: Population: Structure,"Age population, age 20, male, interpolated","Age population, male refers to male population at the specified age level."
+374,SP.POP.AG21.MA.IN,Health: Population: Structure,"Age population, age 21, male, interpolated","Age population, male refers to male population at the specified age level."
+375,SP.POP.AG22.MA.IN,Health: Population: Structure,"Age population, age 22, male, interpolated","Age population, male refers to male population at the specified age level."
+376,SP.POP.AG23.MA.IN,Health: Population: Structure,"Age population, age 23, male, interpolated","Age population, male refers to male population at the specified age level."
+377,SP.POP.AG24.MA.IN,Health: Population: Structure,"Age population, age 24, male, interpolated","Age population, male refers to male population at the specified age level."
+378,SP.POP.AG25.MA.IN,Health: Population: Structure,"Age population, age 25, male, interpolated","Age population, male refers to male population at the specified age level."
+379,SP.POP.AG00.FE.IN,Health: Population: Structure,"Age population, age 00, female, interpolated","Age population, female refers to female population at the specified age level."
+380,SP.POP.AG01.FE.IN,Health: Population: Structure,"Age population, age 01, female, interpolated","Age population, female refers to female population at the specified age level."
+381,SP.POP.AG02.FE.IN,Health: Population: Structure,"Age population, age 02, female, interpolated","Age population, female refers to female population at the specified age level."
+382,SP.POP.AG03.FE.IN,Health: Population: Structure,"Age population, age 03, female, interpolated","Age population, female refers to female population at the specified age level."
+383,SP.POP.AG04.FE.IN,Health: Population: Structure,"Age population, age 04, female, interpolated","Age population, female refers to female population at the specified age level."
+384,SP.POP.AG05.FE.IN,Health: Population: Structure,"Age population, age 05, female, interpolated","Age population, female refers to female population at the specified age level."
+385,SP.POP.AG06.FE.IN,Health: Population: Structure,"Age population, age 06, female, interpolated","Age population, female refers to female population at the specified age level."
+386,SP.POP.AG07.FE.IN,Health: Population: Structure,"Age population, age 07, female, interpolated","Age population, female refers to female population at the specified age level."
+387,SP.POP.AG08.FE.IN,Health: Population: Structure,"Age population, age 08, female, interpolated","Age population, female refers to female population at the specified age level."
+388,SP.POP.AG09.FE.IN,Health: Population: Structure,"Age population, age 09, female, interpolated","Age population, female refers to female population at the specified age level."
+389,SP.POP.AG10.FE.IN,Health: Population: Structure,"Age population, age 10, female, interpolated","Age population, female refers to female population at the specified age level."
+390,SP.POP.AG11.FE.IN,Health: Population: Structure,"Age population, age 11, female, interpolated","Age population, female refers to female population at the specified age level."
+391,SP.POP.AG12.FE.IN,Health: Population: Structure,"Age population, age 12, female, interpolated","Age population, female refers to female population at the specified age level."
+392,SP.POP.AG13.FE.IN,Health: Population: Structure,"Age population, age 13, female, interpolated","Age population, female refers to female population at the specified age level."
+393,SP.POP.AG14.FE.IN,Health: Population: Structure,"Age population, age 14, female, interpolated","Age population, female refers to female population at the specified age level."
+394,SP.POP.AG15.FE.IN,Health: Population: Structure,"Age population, age 15, female, interpolated","Age population, female refers to female population at the specified age level."
+395,SP.POP.AG16.FE.IN,Health: Population: Structure,"Age population, age 16, female, interpolated","Age population, female refers to female population at the specified age level."
+396,SP.POP.AG17.FE.IN,Health: Population: Structure,"Age population, age 17, female, interpolated","Age population, female refers to female population at the specified age level."
+397,SP.POP.AG18.FE.IN,Health: Population: Structure,"Age population, age 18, female, interpolated","Age population, female refers to female population at the specified age level."
+398,SP.POP.AG19.FE.IN,Health: Population: Structure,"Age population, age 19, female, interpolated","Age population, female refers to female population at the specified age level."
+399,SP.POP.AG20.FE.IN,Health: Population: Structure,"Age population, age 20, female, interpolated","Age population, female refers to female population at the specified age level."
+400,SP.POP.AG21.FE.IN,Health: Population: Structure,"Age population, age 21, female, interpolated","Age population, female refers to female population at the specified age level."
+401,SP.POP.AG22.FE.IN,Health: Population: Structure,"Age population, age 22, female, interpolated","Age population, female refers to female population at the specified age level."
+402,SP.POP.AG23.FE.IN,Health: Population: Structure,"Age population, age 23, female, interpolated","Age population, female refers to female population at the specified age level."
+403,SP.POP.AG24.FE.IN,Health: Population: Structure,"Age population, age 24, female, interpolated","Age population, female refers to female population at the specified age level."
+404,SP.POP.AG25.FE.IN,Health: Population: Structure,"Age population, age 25, female, interpolated","Age population, female refers to female population at the specified age level."
