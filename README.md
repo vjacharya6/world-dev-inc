@@ -17,7 +17,7 @@ The focus of this exercise includes:
 - **Preprocessing Data for Machine Learning Algorithms**: Preparing data for use in machine learning models.
 - **Comparing Training, Validation, and Test Accuracy**: Evaluating the performance of basic regression algorithms in Sklearn.
 - **Identifying key predictors**: Find the best predictors of maternal and child mortality.
-- 
+  
 ## Data Source
 
 The data used in this exercise is from the World Bank's Health, Population, and Nutrition datasets, which can be accessed from Google's BigQuery data warehouse. More processed versions are also available on platforms like Kaggle and elsewhere. Here I work with the raw data. 
