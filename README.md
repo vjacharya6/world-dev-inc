@@ -1,25 +1,34 @@
-# world-dev-inc
+# Demonstrating Data Science Tools
 
-This excercise demonstrates some of the most basic features of 
+This exercise demonstrates basis features of several essential tools in data science:
 
-- SQL
+- **SQL**
+- **Pandas**
+- **Regression Methods**
+- **Pipelines and Composite Estimators**
+- **Matplotlib**
 
-- Pandas 
+## Focus Areas
 
-- some regression methods 
+The focus of this exercise includes:
 
-- sklearn pipelines and composite estimators
+- **Data Retrieval, Imputation, and Visualization**: Using various tools to retrieve data, compare different ways to handle missing values, and visualize the data.
+- **Manipulating DataFrames in Pandas**: Performing operations and transformations on data using Pandas.
+- **Preprocessing Data for Machine Learning Algorithms**: Preparing data for use in machine learning models.
+- **Comparing Training, Validation, and Test Accuracy**: Evaluating the performance of basic regression algorithms in Sklearn.
+- **Obtaining Insights**: Find out what Machine Learning can tell us about the best predictors of maternal and child mortality.
+- 
+## Data Source
 
-- matplotlib
+The data used in this exercise is from the World Bank's Health, Population, and Nutrition datasets, which can be accessed from Google's BigQuery data warehouse. More processed versions are also available on platforms like Kaggle and elsewhere. Here I work with the raw data. 
 
-The focus is on 
+## Tools and Libraries
 
-- data retrieval, imputation, visualization
+The following tools and libraries will be used in this exercise:
 
-- manipulating DataFrames in Pandas
+- **SQL**: For data retrieval.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For data visualization.
+- **Scikit-Learn (Sklearn)**: For implementing regression methods.
 
-- preprocessing data for machine learning algorithms
 
-- comparing training, validation and test accuracy of basic regression algorithms in sklearn
-
-The World Bank's Health, Population and Nutrition data can be accessed from Google's Bigquery data warehouse. More processed versions are also available at Kaggle and elsewehere. The goal here to show how to get started with raw data. The goal is to identifying social, health and population indicators (such as hospital beds per 1000 inhabitants) that have a bearing on maternal child mortality. 
