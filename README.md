@@ -22,6 +22,4 @@ The focus is on
 
 - comparing training, validation and test accuracy of basic regression algorithms in sklearn
 
-The machine learning tasks themeselves are rudimentary because making superaccurate predictions is not the goal here. 
-
-The World Bank's Health, Population and Nutrition data can be accessed from Google's Bigquery data warehouse. More processed versions are also available at Kaggle and elsewehere. The goal here to show how to get started with raw data. I focus on identifying social, health and population indicators (such as hospital beds per 1000 inhabitants) that have a bearing on maternal child mortality. I stick to indicators whose utility can influence policy decisions. For example, I will not look at per-capita GDP because I don't think "get rich" is a particularly useful policy recommendation and because it influences maternal-child mortality indirectly through other health, population and social indicators. 
+The World Bank's Health, Population and Nutrition data can be accessed from Google's Bigquery data warehouse. More processed versions are also available at Kaggle and elsewehere. The goal here to show how to get started with raw data. The goal is to identifying social, health and population indicators (such as hospital beds per 1000 inhabitants) that have a bearing on maternal child mortality. 
