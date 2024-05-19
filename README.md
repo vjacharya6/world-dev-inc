@@ -1,6 +1,6 @@
 # Demonstrating Data Science Tools
 
-This exercise demonstrates basis features of several essential tools in data science:
+This exercise demonstrates basic features of several essential tools in data science:
 
 - **SQL**
 - **Pandas**
@@ -16,7 +16,7 @@ The focus of this exercise includes:
 - **Manipulating DataFrames in Pandas**: Performing operations and transformations on data using Pandas.
 - **Preprocessing Data for Machine Learning Algorithms**: Preparing data for use in machine learning models.
 - **Comparing Training, Validation, and Test Accuracy**: Evaluating the performance of basic regression algorithms in Sklearn.
-- **Obtaining Insights**: Find out what Machine Learning can tell us about the best predictors of maternal and child mortality.
+- **Identifying key predictors**: Find the best predictors of maternal and child mortality.
 - 
 ## Data Source
 
